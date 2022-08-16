@@ -17,3 +17,4 @@
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Vanilla JavaScript
