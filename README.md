@@ -1,14 +1,8 @@
 # Frontend Mentor - FAQ accordion card
+- Live demo: [https://faq-accordion-card-main-with-grid.vercel.app/](https://faq-accordion-card-main-with-grid.vercel.app/)
+
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
-
-## Welcome! 👋
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-## My process
 
 ### Built with
 
